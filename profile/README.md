@@ -44,7 +44,7 @@ Explore our latest groundbreaking projects published at premier conferences:
 
 - 🏅 **[Wonder3D](https://www.xxlong.site/Wonder3D/)**: [CVPR 2024] Single Image to 3D using Cross-Domain Diffusion [[Code]](https://github.com/xxlong0/Wonder3D)
 
-- 🏅 **[TriplaneGaussian](https://github.com/VAST-AI-Research/TriplaneGaussian)**: [CVPR 2024] A new hybrid representation for single-view 3D generation [[Code]](https://github.com/VAST-AI-Research/TriplaneGaussian)
+- 🏅 **[TriplaneGaussian](https://github.com/VAST-AI-Research/TriplaneGaussian)**: [CVPR 2024] A New Hybrid Representation for Single-View 3D Generation [[Code]](https://github.com/VAST-AI-Research/TriplaneGaussian)
 
 👉 [See the full list of our research projects](https://github.com/VAST-AI-Research/.github/blob/main/RESEARCH.md)
 
