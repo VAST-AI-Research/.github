@@ -11,6 +11,7 @@ We are VAST, the research team behind [Tripo](https://www.tripo3d.ai) - an advan
 - **[TripoSR](https://github.com/VAST-AI-Research/TripoSR)**: Fast 3D Object Generation from a Single Image
 
 ### Tools & Integration
+- **[tripo-3d-for-blender](https://github.com/VAST-AI-Research/tripo-3d-for-blender)**: Official extension for Blender
 - **[tripo-mcp](https://github.com/VAST-AI-Research/tripo-mcp)**: Official MCP server for Tripo integration
 - **[tripo-python-sdk](https://github.com/VAST-AI-Research/tripo-python-sdk)**: Official Python SDK for Tripo
 - **[ComfyUI-Tripo](https://github.com/VAST-AI-Research/ComfyUI-Tripo)**: Official custom nodes for using Tripo in ComfyUI
