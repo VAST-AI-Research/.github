@@ -35,6 +35,10 @@ Each project repository includes extensive documentation:
 
 Explore our latest groundbreaking projects published at premier conferences:
 
+- 🏅 **[UniRig](https://github.com/VAST-AI-Research/UniRig)**: One Model to Rig Them All: Diverse Skeleton Rigging with UniRig [[Code]](https://github.com/VAST-AI-Research/UniRig)
+
+- 🏅 **[HoloPart](https://github.com/VAST-AI-Research/HoloPart)**: Generative 3D Part Amodal Segmentation [[Code]](https://github.com/VAST-AI-Research/HoloPart)
+
 - 🏅 **[MIDI-3D](https://github.com/VAST-AI-Research/MIDI-3D)**: [CVPR 2025] Multi-Instance Diffusion for Single Image to 3D Scene Generation [[Code]](https://github.com/VAST-AI-Research/MIDI-3D)
 
 - 🏅 **[TEXGen](https://cvmi-lab.github.io/TEXGen/)**: [SIGGRAPH Asia 2024] A Generative Diffusion Model for Mesh Textures (**Best Paper Honorable Mention🎉**) [[Code]](https://github.com/CVMI-Lab/TEXGen)
